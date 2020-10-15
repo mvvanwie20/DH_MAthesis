@@ -7,12 +7,12 @@ Contact: Mareike Van Wie, mareikevanwie@gmail.com
 
 ORGANIZATION
 
-All files live in the ‘DH_MAthesis’ folder, with content organized into subfolders as follows:
+All files live in the ‘DH_MAthesis’ folder, with content organized by title as follows:
 
-– ‘PrimaryData’: All primary data goes into this folder, files organized by project title
-– ‘SecondaryData’: Data files that include the node and edge lists used for Gephi visualizations
-– ‘Visualisations’: All visualizations created for this project
- NAMING
+– ‘Primary Data’: All primary data organized by file title “casestudyname_PrimaryData.csv”
+– ‘Secondary Data’: Data files that include the node and edge lists used for Gephi visualizations and are named “casestudyname_Edges.csv” or “casestudyname_Nodes.csv”, for the Femicide Census there is a second edge list titled “FemicideEdges_MediaOnly” this was used to create a visualisation showing only unverified data
+– ‘Visualizations’: All visualizations created for this project are labeled “casestudyname_visualisation.jpg”, the second Femicide Census visualization showing unverified data is titled "FemicideCensus_Media.jpg"
+
 
 Raw data files will be named as follows:
 
