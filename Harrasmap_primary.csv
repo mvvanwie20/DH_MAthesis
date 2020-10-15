@@ -1,0 +1,88 @@
+Id,Incident,Language ,Location,Original (anon),Intervention,Date ,Expressions of support
+S01,"Touching, sexual assault",English,Cairo,Yes ,No,17/12/2019,2
+S02,"Catcalls, Stalking",English,Cairo,yes,No ,13/12/2019,0
+S03,Phone calls ,Unknown,Cairo,No ,Yes ,7/12/2019,0
+S04,"Facial Expressions, Ogling",Unknown ,Cairo ,No ,no,5/12/2019,0
+S05,Facial Expressions,Unknown,Cairo,No ,No ,5/12/2019,0
+S06,Touching,English,Cairo,yes,No,19/11/2019,7
+S07,"Touching, Threat",Unknown,Giza,No,No,12/11/2019,0
+S08,Comments,Unknown,Costa Rica ,No,No,05/11/2019,0
+S09,Mob sexual assault/Rape,Unknown,Cairo,No,No,04/11/2019,0
+S10,"Facial Expressions, Ogling",Unknown,Maadi,No ,Yes,02/11/2019,0
+S11,"Comments, stalking",English,Maadi,Yes,No,30/10/2019,2
+S12,"catcalls, comments",Unknown,Cairo,no,No,28/10/2019,1
+S13,Facial Expressions,Unkown,Saudi Arabia,no,no,18/10/2019,2
+S14,"Touching, Sexual Invites",unknown,Soma Bay,yes,yes,17/10/2019,1
+S15,"Facial Expressions, Comments",Arabic,Shibin Al Qanater ,yes,no,11/10/2019,2
+S16,"Ogling, Comments",Arabci,Shibin Al Qanater ,no,no,11/10/2019,0
+S17,"Facial Expressions, Ogling",unknown,Egypt,yes,no,11/10/2019,0
+S18,"Comments, Unwanted Attention",Arabic,Shibin Al Qanater ,no,no,10/10/2019,1
+S19,"Ogling, Comments",unknown,Cairo,no,no,04/10/2019,0
+S20,"Facial Expressions, Ogling",unknow,Madinaty,no,no,03/10/2019,1
+S21,Threat,unknown,Cairo ,no,yes,01/10/2019,0
+S22,"Facial Expressions, Catcalls",Arabic,Shibin Al Qanater ,yes,no,27/09/2019,0
+S23,"Facial Expressions, Ogling",Arabic,Shibin Al Qanater ,yes,yes,27/09/2019,0
+S24,"Indecent exposure, sexual invites",Araabic,Saudi Arabia,yes,no,23/09/2019,0
+S25,touching,English,Siwa,yes,no,22/09/2019,2
+S26,"Comments, touching",Unknown,Paris,no,yes,22/09/2019,0
+S27,"ogling, catcalls",Unknown,Alexandria,no,no,10/09/2019,0
+S28,"Indecent exposure, touching",Unknown,Egypt ,no,no,01/09/2019,0
+S29,touching,Unknown,Giza,no,yes,25/08/2019,0
+S30,"Sexual invites, threat",Unknown,Shibin Al Qanater ,no,no,25/08/2019,0
+S31,"stalking, touching",Unknown,Luxor,no,no,22/08/2019,0
+S32,"comments, stalking ",Unknown,Cairo,no,no,19/08/2019,0
+S33,"Facial Expressions, Ogling",English,Cairo,yes,no,19/08/2019,1
+S34,"Comments, stalking",Unknown,,no,no,17/08/2019,0
+S35,"Comments, stalking",Unknown,,no,yes,17/07/2019,0
+S36,"Facial Expressions, stalking ",Unknown,Cairo,no,no,15/08/2019,0
+S37,"comments, mob/sexual assault/rape",Unknown,Cairo,no,no,11/08/2019,2
+S38,"Facial Expressions, Ogling",Arabic,Cairo,yes,no,26/07/2019,4
+S39,Comments,English,Cairo,yes,yes,26/07/2019,0
+S40,Sexual invites,Unknown,Middlesbrough,no,no,16/07/2019,2
+S41,touching,Unknown,Cairo,no,no,07.07.2019,1
+S42,Comments ,Unknown,Ohio,no,no,05/07/2019,0
+S43,touching,Unknown,,no,no,29/06/2019,2
+S44,"catcalls, indecent exposure",Arabic,,yes,no,29/06/2019,8
+S45,online,Arabic,,ues,no,20/06/2019,1
+S46,"ogling, stalking",Unknown,Luxor,no,no,18/06/2019,1
+S47,"Facial expressions, unwanted attention",Unknown,Cairo,no,no,17/06/2019,0
+S48,"phone calls, online",Unknown,,no,no,12/06/2019,1
+S49,"comments, touching",English,Maadi,yes,no,10/06/2019,0
+S50,"Facial expressions, ogling",English,,ues,no,01/06/2019,3
+S51,"Facial expressions, ogling",English,Madinaty,yes,no,01/06/2019,1
+S52,Touching ,English,,yes,no,27/05/2019,0
+S53,ogling,unknow,Cairo,no,no,26/05/2019,0
+S54,comments,arabic,Shibin Al Qanater ,yes,no,14/05/2019,1
+S55,threat,araboc,Shibin Al Qanater ,yes,yes,14/05/2019,3
+S56,comments,arabic,egypt,yes,yes,13/05/2019,1
+S57,touching,English,Nasr City,yes,no,08/05/2019,2
+S58,"Catcalls, Stalking",Unknown,Ramallah ,no,no,02/05/2019,1
+S59,"Indecent exposure, touching",arabic,Giza,Yes,no,22/04/2019,0
+S60,Touching,arabic,Cairo,Yes,no,22/04/2019,1
+S61,"Facial Expressions, Ogling",unknown,El Gouna,No,yes,21/04/2019,1
+S62,"Ogling, Comments",English,Cairo,yes,no,17/04/2019,1
+S63,"comments, sexual invites",unknown,Dahab,no,no,17/04/2019,0
+S64,"ogling, catcalls",English,Sharm El-Sheikh,yes,no,11/04/2019,2
+S65,comments,unknown,Giza,no,no,07/04/2019,0
+S66,Phone calls ,English,Sharm El-Sheikh,yes,no,02/04/2019,0
+S67,Indecent exposure,English,Beirut,yes,no,29/3/2019,0
+S68,comments,arabic,Shibin Al Qanater ,yes,no,29/03/2019,0
+S69,catcalls,English,Cairo,yes,no,24/03/2019,2
+S70,"Facial expressions, ogling",English,Cairo ,yes,yes,21/03/2019,2
+S71,touching,Unknown ,Sammannoud,no,no,16/03/2019,2
+S72,"Online, sexual invites",English,Accra,yes,no,15/03/2019,1
+S73,"stalking, touching",arabic,Ashmun,yes,no,09/03/2019,5
+S74,stalking,English,Cairo,yes,no,02/03/2019,2
+S75,touching,English,Barra,yes,yes,19/02/2019,2
+S76,"Touching, sexual assault",unknown,Queenstown,no,no,17/02/2019,0
+S77,"stalking, touching",English,Egypt,yes,no,16/02/2019,0
+S78,"Facial Expressions, Comments",arabic,Saudi Arabia,yes,no,10/02/2019,0
+S79,"Sexual invites, unwanted attention",English,Dubai,yes,no,07/02/2019,2
+S80,Indecent exposure,English,New York City ,yes,yes,06/02/2019,0
+S81,touching,Arabic,Cairo ,yes,no,05/02/2019,1
+S82,"comments, touching",Arabic,Cairo,yes,no,05/02/2019,0
+S83,"phone calls, online",unknown,Leyton,no,no,02/02/2019,0
+S84,Indecent exposure,unknown,Rajasthan,no,no,18/01/2019,0
+S85,"Touching, Threat",arabic,Egypt ,yes,no,15/01/2019,0
+S86,"touching, phone calls",arabic,Arar,yes,no,13/01/2019,3
+S87,"Facial Expressions, Ogling",unknown,Cairo,no,yes,01/01/2019,0
